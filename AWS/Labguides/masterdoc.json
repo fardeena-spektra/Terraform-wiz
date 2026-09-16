@@ -3,12 +3,12 @@
     "Name": "Lab – Shell Scripting Advanced",
     "Language": "English",
     "Files": [
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/GettingStarted.md", "Order": 1 },
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/labguide-1.md", "Order": 1 },
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/labguide-2.md", "Order": 2 },
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/labguide-3.md", "Order": 3 },
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/labguide-4.md", "Order": 4 },
-      { "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microland/refs/heads/main/Cloud-AWS-bash-Ansible-Windows-and-Linux-Assessment-03/Labguides/labguide-5.md", "Order": 5 }
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/GettingStarted.md", "Order": 1 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/labguide-1.md", "Order": 1 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/labguide-2.md", "Order": 2 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/labguide-3.md", "Order": 3 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/labguide-4.md", "Order": 4 },
+      { "RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/AWS/Labguides/labguide-5.md", "Order": 5 }
     ]
   }
 ]
