@@ -164,14 +164,14 @@ You are ready to begin. Click **Next** to open the first scenario.
 
  <inject key="UserName" enableCopy="true" />
 
-        **checkNNumber:** <inject key="UserName" value="StaticValue4" key="UserName" value="StaticValue4" enableCopy="true" />
+   **checkNNumber:** <inject key="UserName" value="StaticValue4" key="UserName" value="StaticValue4" enableCopy="true" />
 
-        **checkNNumber:** <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" />
+   **checkNNumber:** <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" />
 
-        **checkNNumber:** <inject key="AzureAdUserPassword" value="StaticValue3" key="UserName" value="StaticValue2" />
+   **checkNNumber:** <inject key="AzureAdUserPassword" value="StaticValue3" key="UserName" value="StaticValue2" />
 
-        **checkNNumber:** <inject key="UserName" value="StaticValue" key="UserName" value="StaticValue" />
+   **checkNNumber:** <inject key="UserName" value="StaticValue" key="UserName" value="StaticValue" />
 
-        **url:** <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" />
+   **url:** <inject key="AzureAdUserPassword" value="StaticValue2" key="AzureAdUserEmail" value="StaticValue1" enableCopy="false" />
     
 
