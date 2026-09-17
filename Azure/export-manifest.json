@@ -1,0 +1,31 @@
+{
+  "packageId": "nedbank-messaging-eventing-intermediate",
+  "slug": "nedbank-messaging-eventing-intermediate",
+  "title": "Messaging & Eventing \u2014 Messaging Operations & Automation \u2014 Intermediate Skills Assessment",
+  "version": 5,
+  "exportedAt": "2026-08-26T00:00:00.000Z",
+  "exportTarget": "zip",
+  "deliverableConfig": {
+    "arm": { "enabled": true, "stages": 1 },
+    "cse": { "enabled": true },
+    "labGuide": { "enabled": true, "exercises": 7 },
+    "questions": { "enabled": true, "count": 35 },
+    "validations": { "enabled": true, "count": 4 },
+    "solution": { "enabled": true },
+    "rbac": { "enabled": false },
+    "policy": { "enabled": false },
+    "readme": { "enabled": false },
+    "specSheet": { "enabled": true }
+  },
+  "moduleCoverage": {
+    "M1_IBM_MQ": "validation (10 marks) + 5 reinforcement questions",
+    "M2_Apache_Kafka_and_KSQL": "validation (10 marks) + 5 reinforcement questions",
+    "M3_Elastic_and_Logstash": "5 questions (10 marks)",
+    "M4_Ansible": "validation (10 marks) + 5 reinforcement questions",
+    "M5_Python": "validation (10 marks) + 5 reinforcement questions",
+    "M6_OpenShift_and_Kubernetes": "5 questions (10 marks)",
+    "M7_Git_and_CICD_Azure_DevOps": "5 questions (10 marks)"
+  },
+  "notes": "v5: M1, M2, M4, M5 now have real bootstrap-seeded environments and validation (Kafka+Zookeeper, IBM MQ on one D4s_v3 VM). Every module, including the 4 validated ones, has its own 5-question set for reinforcement. M3/M6/M7 remain question-only per VM-capacity rationale in Spec.md.",
+  "errors": []
+}

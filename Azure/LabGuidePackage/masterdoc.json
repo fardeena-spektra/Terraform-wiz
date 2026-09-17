@@ -1,0 +1,45 @@
+[
+	{
+		"Name": "Messaging & Eventing \u2014 Messaging Operations & Automation \u2014 Intermediate Skills Assessment",
+		"Language": "English",
+		"BaseURL": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide",
+		"Files": [
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/M00-GettingStarted.md",
+				"Order": 1
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/laboverview.md",
+				"Order": 2
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-01.md",
+				"Order": 3
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-02.md",
+				"Order": 4
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-03.md",
+				"Order": 5
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-04.md",
+				"Order": 6
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-05.md",
+				"Order": 7
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-06.md",
+				"Order": 8
+			},
+			{
+				"RawFilePath": "https://raw.githubusercontent.com/fardeena-spektra/Terraform-wiz/refs/heads/main/Azure/LabGuidePackage/LabGuide/Exercise-07.md",
+				"Order": 9
+			}
+		]
+	}
+]
