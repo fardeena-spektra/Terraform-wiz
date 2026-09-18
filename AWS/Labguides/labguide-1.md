@@ -59,8 +59,15 @@ After completing the task, click the **Validation** button.
 
 <inject value="https://experience.cloudlabs.ai/#/odl/labguide/" key="ODLUniqueName" value="/" key="AttendeeUniqueName" value="/1/1" enableCopy="true" />
 
+
+
+
 <inject value="https://" key="SubscriptionID" value=".signin.aws.amazon.com/console" enableCopy="true" />
+
+
 Username: <inject key="AzureADUserEmail" enableCopy="true" />
+
+
 Password: <inject key="AzureADUserPassword" enableCopy="true" />
 
 Click **Next** to begin Scenario 2.
