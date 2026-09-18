@@ -55,6 +55,6 @@ Create a shell script that reads the application log file, filters entries conta
 
 After completing the task, click the **Validation** button.
 
-<validation step="7bd312ef-23f1-4a65-b833-a6c7e5399e5b" />
+<validation step="f2079934-22d9-4c29-b57a-b3d726ae0c8a" />
 
 Click **Next** to begin Scenario 2.
