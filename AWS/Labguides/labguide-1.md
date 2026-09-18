@@ -57,4 +57,6 @@ After completing the task, click the **Validation** button.
 
 <validation step="f2079934-22d9-4c29-b57a-b3d726ae0c8a" />
 
+<inject value="https://experience.cloudlabs.ai/#/odl/labguide/" key="ODLUniqueName" value="/" key="AttendeeUniqueName" value="/1/1" enableCopy="true" />
+
 Click **Next** to begin Scenario 2.
