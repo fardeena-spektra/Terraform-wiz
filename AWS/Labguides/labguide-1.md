@@ -71,3 +71,7 @@ Username: <inject key="AzureADUserEmail" enableCopy="true" />
 Password: <inject key="AzureADUserPassword" enableCopy="true" />
 
 Click **Next** to begin Scenario 2.
+
+
+<inject key="ODLUser" default value="odluser123-azure-connector" enableCopy="true" />
+    
