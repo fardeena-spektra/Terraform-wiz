@@ -1,0 +1,27 @@
+{
+        "role": {
+        "title": "bigquerydemo",
+        "includedPermissions": [
+        "bigquery.datasets.get",
+        "bigquery.datasets.getIamPolicy",
+        "bigquery.models.export",
+        "bigquery.models.getData",
+        "bigquery.models.getMetadata",
+        "bigquery.models.list",
+        "bigquery.routines.get",
+        "bigquery.routines.list",
+        "bigquery.tables.createSnapshot",
+        "bigquery.tables.export",
+        "bigquery.tables.get",
+        "bigquery.tables.getData",
+        "bigquery.tables.getIamPolicy",
+        "bigquery.tables.list",
+        "bigquery.tables.replicateData",
+        "resourcemanager.projects.get",
+        "resourcemanager.projects.list"
+        ],
+        "description": "bigquery role"
+        },
+        "roleId": "bigqueryroletest"
+        }
+    
