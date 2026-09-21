@@ -76,4 +76,10 @@ You can also find your username and password on the **Environment tab**.
 
 Click **Next** to begin Scenario 1.
 
+Custom handler URL: <inject key="WIZ Portal" enableCopy="true"  /> <br>
+
+Username: <inject key="Username" enableCopy="true"  /> <br>
+
+Password: <inject key="CustomHandlerUserPassword" enableCopy="true" /> <br>  
+
 ## Happy Assessing !!
